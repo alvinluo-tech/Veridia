@@ -6,6 +6,8 @@
 
 A personal media and knowledge management platform for collecting, tracking, reflecting on, and rediscovering your media consumption.
 
+**English** | [简体中文](./README.zh-CN.md)
+
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?logo=tailwindcss)](https://tailwindcss.com)
